@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+
+.local_tools/
+tmp/
+.downloads/
+.local_apt/
+
+.venv/
+venv/
+env/
+
+.DS_Store
